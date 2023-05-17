@@ -1,18 +1,5 @@
 # Git
 
-## Installation
-### Ubunty
-For Ubuntu, this PPA provides the latest stable upstream Git version
-```
-sudo add-apt-repository ppa:git-core/ppa
-```
-```
-sudo apt update
-```
-```
-sudo apt install git
-```
-
 ## Configuration
 ### Working with configuration
 You can simply edit the `.git\config` file
